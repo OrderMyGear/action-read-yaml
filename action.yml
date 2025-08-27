@@ -9,7 +9,7 @@ inputs:
     description: "Config file name"
     required: true
     default: ""
-  key-path:
+  key-path-pattern:
     description: "Key path to filter out in the yaml file"
     required: false
     default: ""
